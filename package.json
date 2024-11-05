@@ -1,0 +1,19 @@
+{
+  "name": "mongo-api",
+  "version": "1.0.0",
+  "description": "Mongo Node api project",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "request": "^2.88.2"
+  },
+  "author": "Ghazanfar Khan",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
